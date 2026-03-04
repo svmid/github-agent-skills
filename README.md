@@ -45,7 +45,7 @@ prompts/      → AI task templates with personas for various scenarios
 Clone this repository as a `.github` folder in the root of your Laravel project:
 
 ```bash
-git clone https://github.com/BayuFirmansyaah/github-agents-skilss.git .github
+git clone https://github.com/svmid/github-agent-skills.git .github
 ```
 
 If you don't need git history:
@@ -224,3 +224,4 @@ Contributions are open to everyone!
 ## License
 
 MIT
+
